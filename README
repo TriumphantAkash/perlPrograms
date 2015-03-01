@@ -1,0 +1,10 @@
+This directory contains some basic practice examples of perl code.
+
+PERL INTERPRETER
+----------------
+	-for running a perl program we need a perl interpreter.
+	-Interpreter is a program used to convert the source code into machine code every time the program is being run on a machine.
+	-Unlike compiler, interpreter is needed everytime a perl program is run.
+	-This may be a reason why perl programs are slower than any other language like C whose executable  is directly run on a machine and compiler is used only once
+	-perl interpreter resides at /usr/bin/perl, this is the reason every perl program starts with #!/usr/bin/perl -w
+
